@@ -1,0 +1,17 @@
+python3 -m venv myenv
+# windows os
+path-to-activate.bat
+
+# linux / mac
+source path-to-activate
+
+
+
+pip install pandas
+
+
+read file and start cleaning
+
+cleaning
+
+panads -> data queries

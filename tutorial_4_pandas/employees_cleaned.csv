@@ -1,0 +1,10 @@
+emp_id,name,department,city,salary,joining_date,email
+101,Suresh,IT,Pune,55000.0,2021-03-15,suresh@company.com
+102,Ramesh,HR,Chennai,48000.0,2020-07-01,ramesh@company.com
+103,Mahesh,UNKNOWN,Pune,53000.0,2019-11-20,mahesh@company.com
+104,Dinesh,IT,Mumbai,62000.0,2021-03-15,dinesh@company.com
+105,Mukesh,FINANCE,Chennai,51000.0,2015-01-01,mukesh@company.com
+107,Kamlesh,HR,Unknown,43000.0,2020-05-30,kamlesh@company.com
+108,Nitesh,FINANCE,Mumbai,53000.0,2021-08-18,nitesh@company.com
+109,Hitesh,IT,Pune,58000.0,2023-02-22,hitesh@company.com
+110,Ratnesh,IT,Pune,60000.0,2022-09-05,ratnesh@company.com
